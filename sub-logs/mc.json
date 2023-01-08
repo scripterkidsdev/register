@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/scripterkidsdev/site",
+
+  "owner": {
+    "username": "Mustafa Çillioğlu",
+    "email": "mustafacillioglu@mc.dev"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "mc", 
+       "value": "hosting.gitbook.io"
+     }
+  },
+
+  "proxied": false
+}
